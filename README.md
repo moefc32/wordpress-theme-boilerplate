@@ -1,2 +1,2 @@
-# wordpress-theme-boilerplate
+# WordPress Theme Boilerplate
 Boilerplate for making a WordPress Theme 
