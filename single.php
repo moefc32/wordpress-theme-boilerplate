@@ -1,5 +1,7 @@
-<?php get_header();
-get_template_part('partials/navigator'); ?>
+<?php
+get_header();
+get_template_part('partials/navigator');
+?>
 
 <div class="container">
     <div class="col-sm-8">
